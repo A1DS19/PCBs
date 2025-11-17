@@ -9,8 +9,6 @@ This repository contains PCB design files, schematics, and documentation for cus
 ## Getting Started
 
 ### Prerequisites
-
-Depending on the design tool used for each project, you may need:
 - [KiCad](https://www.kicad.org/) - Open source EDA software
 
 ### Manufacturing
