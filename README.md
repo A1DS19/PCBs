@@ -12,6 +12,4 @@ This repository contains PCB design files, schematics, and documentation for cus
 - [KiCad](https://www.kicad.org/) - Open source EDA software
 
 ### Manufacturing
-
-Gerber files for each project are provided in the respective `gerbers/` directory. These can be uploaded to PCB manufacturers such as:
 - [JLCPCB](https://jlcpcb.com/)
