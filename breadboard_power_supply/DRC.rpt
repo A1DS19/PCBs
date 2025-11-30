@@ -1,0 +1,14 @@
+** Drc report for breadboard_power_supply.kicad_pcb **
+** Created on 2025-11-29T19:33:38-0600 **
+
+** Found 1 DRC violations **
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(175,7680 mm, 76,0730 mm): Zone 'back copper' [GND] on B.Cu, priority 1
+    @(181,6100 mm, 93,3450 mm): PTH pad 2 [GND] of U3
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
