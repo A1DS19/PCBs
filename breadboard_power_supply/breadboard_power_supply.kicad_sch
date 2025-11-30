@@ -2121,10 +2121,10 @@
 		(uuid "ddd054f7-3cc2-4c43-bf1f-5b66bedfe1ab")
 	)
 	(junction
-		(at 198.755 45.72)
+		(at 204.47 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "00b62710-a0ef-4dbf-9c30-6a1b3f2b4bef")
+		(uuid "00aa8cf6-ebab-498e-b381-87e93d26184d")
 	)
 	(junction
 		(at 30.48 106.68)
@@ -2205,12 +2205,6 @@
 		(uuid "9ad8a143-acf4-453b-8fe9-ecc520f426cd")
 	)
 	(junction
-		(at 204.47 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a5bdbcc7-9cd5-49db-b505-958b13eb6d64")
-	)
-	(junction
 		(at 40.64 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2221,6 +2215,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eab2bdea-9d30-4210-8537-6e6cfdd18a33")
+	)
+	(junction
+		(at 198.755 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fd050348-97cd-4ff9-aadb-f0c8c5c2ac23")
 	)
 	(no_connect
 		(at 55.88 39.37)
@@ -2235,6 +2235,16 @@
 			(type default)
 		)
 		(uuid "03fa73a8-e519-4057-85ce-5e649866ad11")
+	)
+	(wire
+		(pts
+			(xy 198.755 45.72) (xy 180.34 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06cee5c7-a9aa-401a-9e54-7268d9be9aba")
 	)
 	(wire
 		(pts
@@ -2328,16 +2338,6 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 87.63) (xy 204.47 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b0418e1-f555-46b3-b8bd-9b1a9babe170")
-	)
-	(wire
-		(pts
 			(xy 35.56 106.68) (xy 46.99 106.68)
 		)
 		(stroke
@@ -2395,16 +2395,6 @@
 			(type default)
 		)
 		(uuid "2a5aeb5f-7a70-45cc-8c6e-b119fbe8c74f")
-	)
-	(wire
-		(pts
-			(xy 198.755 45.72) (xy 201.93 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c054a23-1cb7-4c1a-b5ca-8a363d7da620")
 	)
 	(wire
 		(pts
@@ -2648,16 +2638,6 @@
 	)
 	(wire
 		(pts
-			(xy 198.755 45.72) (xy 198.755 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4d71f94-e410-4fbe-aea9-16cbde2213de")
-	)
-	(wire
-		(pts
 			(xy 201.93 104.14) (xy 201.93 106.68)
 		)
 		(stroke
@@ -2695,6 +2675,16 @@
 			(type default)
 		)
 		(uuid "ac1692ce-6d06-498d-86cd-4600fd054252")
+	)
+	(wire
+		(pts
+			(xy 204.47 87.63) (xy 204.47 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0ffa248-5abc-4c71-b3ee-c4bcb5229b83")
 	)
 	(wire
 		(pts
@@ -2748,6 +2738,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 87.63) (xy 204.47 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5470451-0f82-4189-9295-ad877d51b3d2")
+	)
+	(wire
+		(pts
 			(xy 38.1 25.4) (xy 38.1 36.83)
 		)
 		(stroke
@@ -2795,6 +2795,16 @@
 			(type default)
 		)
 		(uuid "d251334a-00ee-4f59-955a-e3b1363ce006")
+	)
+	(wire
+		(pts
+			(xy 198.755 45.72) (xy 198.755 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d25b8275-d1e8-4e58-94b8-fde23f98d64e")
 	)
 	(wire
 		(pts
@@ -2858,16 +2868,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 87.63) (xy 204.47 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc69aa93-7aad-433a-a00d-c67855b16ef7")
-	)
-	(wire
-		(pts
 			(xy 198.755 59.69) (xy 198.755 49.53)
 		)
 		(stroke
@@ -2885,6 +2885,16 @@
 			(justify left bottom)
 		)
 		(uuid "0f3b76b9-71a5-408f-8bc4-56ae25744ae0")
+	)
+	(label "POWER_OUT_BOTTOM"
+		(at 180.34 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "15556eb3-5bb6-4cab-8002-025d3d9745ed")
 	)
 	(label "12V"
 		(at 60.96 34.29 0)
@@ -2906,6 +2916,16 @@
 		)
 		(uuid "2b86adb8-3902-4328-abb7-734ae23d00ee")
 	)
+	(label "POWER_OUT_TOP"
+		(at 180.34 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "36b4153e-c4ec-4992-ae30-6e93ed395ea6")
+	)
 	(label "PWR_INPUT"
 		(at 38.1 25.4 0)
 		(effects
@@ -2925,26 +2945,6 @@
 			(justify left bottom)
 		)
 		(uuid "5c3eaefa-0b69-415b-800c-1446944fa480")
-	)
-	(label "PWR_OUTPUT"
-		(at 201.93 45.72 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b76c018a-16a7-4794-a657-059ae85e47d2")
-	)
-	(label "PWR_OUTPUT"
-		(at 189.23 87.63 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c62c27cc-1b4e-4f17-84c0-587fe55a94cf")
 	)
 	(label "3.3V"
 		(at 208.28 85.09 0)
