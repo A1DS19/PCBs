@@ -1,0 +1,73 @@
+ERC report (2025-11-30T17:34:35-0600, Encoding UTF8)
+
+***** Sheet /
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(5150 mils, 4550 mils): Symbol #FLG01 Pin 1 [Power output, Line]
+    @(8100 mils, 3800 mils): Symbol U1 Pin 2 [GND, Power output, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3200 mils, 3525 mils): Vertical Wire, length 175 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3200 mils, 3650 mils): Vertical Wire, length 125 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3300 mils, 3525 mils): Horizontal Wire, length 100 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3300 mils, 3525 mils): Vertical Wire, length 575 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4200 mils, 3200 mils): Horizontal Wire, length 575 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4775 mils, 3200 mils): Horizontal Wire, length 225 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4775 mils, 3900 mils): Vertical Wire, length 700 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4800 mils, 3900 mils): Horizontal Wire, length 25 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5300 mils, 4175 mils): Vertical Wire, length 1825 mils
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(6500 mils, 3700 mils): Symbol U1 Pin 3 [FB, Unspecified, Line]
+    @(6350 mils, 2850 mils): Symbol R2 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(6500 mils, 3800 mils): Symbol U1 Pin 4 [SHDN, Unspecified, Line]
+    @(4200 mils, 3900 mils): Symbol Q1 Pin 3 [D, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(6500 mils, 3900 mils): Symbol U1 Pin 5 [VIN, Unspecified, Line]
+    @(5000 mils, 3200 mils): Symbol L1 Pin 1 [1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(8100 mils, 3900 mils): Symbol U1 Pin 1 [SW, Unspecified, Line]
+    @(5450 mils, 2350 mils): Symbol D1 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8200 mils, 2650 mils): Vertical Wire, length 1075 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8200 mils, 3725 mils): Horizontal Wire, length 225 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8100 mils, 3900 mils): Vertical Wire, length 275 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8100 mils, 4175 mils): Horizontal Wire, length 2800 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8425 mils, 3725 mils): Vertical Wire, length 825 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8425 mils, 4550 mils): Horizontal Wire, length 575 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8250 mils, 4550 mils): Horizontal Wire, length 175 mils
+
+ ** ERC messages: 21  Errors 1  Warnings 20
