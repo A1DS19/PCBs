@@ -1,0 +1,232 @@
+ERC report (2025-11-30T23:04:30-0600, Encoding UTF8)
+
+***** Sheet /
+[label_dangling]: Label not connected to anything
+    ; error
+    @(154,94 mm, 82,55 mm): Label 'D8'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(154,94 mm, 90,17 mm): Label 'MOSI'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(154,94 mm, 92,71 mm): Label 'MISO'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(185,42 mm, 82,55 mm): Label 'RX'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(185,42 mm, 85,09 mm): Label 'TX'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(185,42 mm, 87,63 mm): Label 'D2'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(185,42 mm, 90,17 mm): Label 'D3'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(185,42 mm, 92,71 mm): Label 'D4'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(185,42 mm, 95,25 mm): Label 'D5'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(185,42 mm, 97,79 mm): Label 'D6'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(185,42 mm, 100,33 mm): Label 'D7'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 17,78 mm): Hierarchical Sheet Pin SDA
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 20,32 mm): Hierarchical Sheet Pin D2
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 22,86 mm): Hierarchical Sheet Pin D3
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 25,40 mm): Hierarchical Sheet Pin D4
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 27,94 mm): Hierarchical Sheet Pin D5
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 30,48 mm): Hierarchical Sheet Pin D6
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 33,02 mm): Hierarchical Sheet Pin D7
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 35,56 mm): Hierarchical Sheet Pin D8
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 39,37 mm): Hierarchical Sheet Pin TX
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 41,91 mm): Hierarchical Sheet Pin RX
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 45,72 mm): Hierarchical Sheet Pin SCK
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 48,26 mm): Hierarchical Sheet Pin RESET
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 53,34 mm): Hierarchical Sheet Pin MISO
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 55,88 mm): Hierarchical Sheet Pin MOSI
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 59,69 mm): Hierarchical Sheet Pin Vcc
+[pin_not_connected]: Pin not connected
+    ; error
+    @(242,062 mm, 62,23 mm): Hierarchical Sheet Pin GND
+[label_dangling]: Label not connected to anything
+    ; error
+    @(52,07 mm, 46,99 mm): Hierarchical Label 'SDA'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(53,34 mm, 76,20 mm): Hierarchical Label 'RX'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(53,34 mm, 78,74 mm): Hierarchical Label 'TX'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(93,98 mm, 35,56 mm): Hierarchical Label 'D2'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(93,98 mm, 38,10 mm): Hierarchical Label 'D3'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(93,98 mm, 40,64 mm): Hierarchical Label 'D4'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(93,98 mm, 43,18 mm): Hierarchical Label 'D5'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(93,98 mm, 45,72 mm): Hierarchical Label 'D6'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(93,98 mm, 48,26 mm): Hierarchical Label 'D7'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(93,98 mm, 50,80 mm): Hierarchical Label 'D8'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(93,98 mm, 68,58 mm): Hierarchical Label 'MISO'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(93,98 mm, 73,66 mm): Hierarchical Label 'RESET'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(106,68 mm, 71,12 mm): Hierarchical Label 'MOSI'
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(138,43 mm, 83,82 mm): Horizontal Wire, length 3,175 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(141,605 mm, 83,82 mm): Vertical Wire, length 11,43 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(141,605 mm, 95,25 mm): Horizontal Wire, length 13,335 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(66,04 mm, 163,83 mm): Horizontal Wire, length 3,175 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(62,865 mm, 163,83 mm): Vertical Wire, length 9,525 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(39,37 mm, 172,085 mm): Vertical Wire, length 0,635 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(39,37 mm, 173,99 mm): Vertical Wire, length 1,905 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(52,07 mm, 166,37 mm): Vertical Wire, length 5,715 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(52,07 mm, 172,085 mm): Horizontal Wire, length 12,70 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(149,225 mm, 100,33 mm): Vertical Wire, length 3,81 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(154,94 mm, 100,33 mm): Horizontal Wire, length 5,715 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(149,225 mm, 104,14 mm): Horizontal Wire, length 12,065 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(96,52 mm, 155,575 mm): Horizontal Wire, length 5,08 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(96,52 mm, 160,02 mm): Vertical Wire, length 4,445 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(62,865 mm, 173,355 mm): Horizontal Wire, length 13,335 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(101,60 mm, 149,86 mm): Vertical Wire, length 5,715 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(101,60 mm, 155,575 mm): Horizontal Wire, length 5,08 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(76,20 mm, 172,085 mm): Vertical Wire, length 0,635 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(86,36 mm, 166,37 mm): Horizontal Wire, length 1,905 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(88,265 mm, 166,37 mm): Vertical Wire, length 5,715 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(106,68 mm, 155,575 mm): Vertical Wire, length 4,445 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(76,20 mm, 173,99 mm): Vertical Wire, length 0,635 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(76,20 mm, 173,355 mm): Vertical Wire, length 1,27 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(88,265 mm, 172,085 mm): Horizontal Wire, length 12,065 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(185,42 mm, 74,93 mm): Horizontal Wire, length 3,175 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(188,595 mm, 74,93 mm): Horizontal Wire, length 12,065 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(188,595 mm, 77,47 mm): Vertical Wire, length 2,54 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(185,42 mm, 77,47 mm): Horizontal Wire, length 3,175 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(188,595 mm, 110,49 mm): Horizontal Wire, length 3,175 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(188,595 mm, 118,11 mm): Horizontal Wire, length 0,635 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(188,595 mm, 118,11 mm): Vertical Wire, length 7,62 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(212,09 mm, 93,345 mm): Horizontal Wire, length 13,97 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(212,09 mm, 82,55 mm): Vertical Wire, length 10,795 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(226,06 mm, 85,09 mm): Vertical Wire, length 8,255 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(226,06 mm, 93,345 mm): Vertical Wire, length 29,845 mm
+
+***** Sheet /connectors/
+
+ ** ERC messages: 75  Errors 40  Warnings 35
