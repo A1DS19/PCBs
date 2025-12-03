@@ -7106,6 +7106,18 @@
 		(layer "Edge.Cuts")
 		(uuid "1cce424b-ad13-4988-8fab-79ee00a3d1ae")
 	)
+	(gr_text "${project_name}\nv1\nJose Padilla\n2025\n"
+		(at 82.9 52 0)
+		(layer "B.SilkS")
+		(uuid "14d0c41f-15a1-4b2a-93e8-e18af5bd8d1a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 103.505 46.99)
 		(end 102.2283 46.99)
