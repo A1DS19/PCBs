@@ -3609,6 +3609,26 @@
 		)
 		(uuid "010e927a-44ef-4874-9bad-e523aa0a9d54")
 	)
+	(label "SCL"
+		(at 49.53 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "073d08de-a429-43f4-bd68-c4c614edf718")
+	)
+	(label "SCL"
+		(at 88.9 156.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0b7c86f1-ea8b-4329-97f9-8ce0bfb47098")
+	)
 	(label "Vcc"
 		(at 68.58 139.7 180)
 		(effects
@@ -3679,16 +3699,6 @@
 		)
 		(uuid "2d43ff16-de47-4f61-a04a-c48fe94ee67d")
 	)
-	(label "SCK"
-		(at 242.57 46.99 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "30637247-bf0f-4b6c-a76d-1eec1fa9e858")
-	)
 	(label "Vcc"
 		(at 242.57 60.96 180)
 		(effects
@@ -3729,15 +3739,15 @@
 		)
 		(uuid "3af9c5bd-7f14-416d-8893-c006cabf8a63")
 	)
-	(label "SCK"
-		(at 78.74 147.32 0)
+	(label "SCL"
+		(at 41.91 147.32 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "4c24f6a8-f91d-44ba-ba60-fe727d656cb0")
+		(uuid "3b5b23ad-739e-4e33-b4d8-b9e21f5d2450")
 	)
 	(label "D8"
 		(at 242.57 36.83 180)
@@ -3809,7 +3819,7 @@
 		)
 		(uuid "6b2e3171-e544-4592-a4e6-9844639e232e")
 	)
-	(label "SCK"
+	(label "SCL"
 		(at 163.83 139.7 180)
 		(effects
 			(font
@@ -3828,6 +3838,16 @@
 			(justify left bottom)
 		)
 		(uuid "70e12e3f-9d37-4bbc-bc76-f85d45227b4c")
+	)
+	(label "SCK"
+		(at 242.57 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "71c1c086-feea-4d90-a2dd-918ce4cf5f33")
 	)
 	(label "MOSI"
 		(at 242.57 57.15 180)
@@ -3849,6 +3869,26 @@
 		)
 		(uuid "7b832219-dd9f-4bc8-837c-30ff7f60010a")
 	)
+	(label "SCL"
+		(at 78.74 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7f283ce1-14da-4358-9965-8e154bf464c7")
+	)
+	(label "SCL"
+		(at 280.67 21.59 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "817f857b-daaa-4ce4-887a-3e811c2a0adf")
+	)
 	(label "D8"
 		(at 163.83 104.14 180)
 		(effects
@@ -3858,16 +3898,6 @@
 			(justify right bottom)
 		)
 		(uuid "888d62c4-be48-4283-b0bb-21fea390ab10")
-	)
-	(label "SCK"
-		(at 49.53 38.1 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8e0bed05-960e-40f3-9e64-d94094e7def5")
 	)
 	(label "TX"
 		(at 194.31 106.68 0)
@@ -4009,16 +4039,6 @@
 		)
 		(uuid "c379a715-0564-4674-a999-717acd44d0b8")
 	)
-	(label "SCK"
-		(at 88.9 156.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ce2f4e43-082b-45c7-940c-8f7864fb9f56")
-	)
 	(label "MOSI"
 		(at 163.83 111.76 180)
 		(effects
@@ -4028,16 +4048,6 @@
 			(justify right bottom)
 		)
 		(uuid "d05fc231-3845-4967-b77b-756706a8c3eb")
-	)
-	(label "SCK"
-		(at 41.91 147.32 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d955e728-0f21-4e34-b8ac-5fa4fde0e928")
 	)
 	(label "D6"
 		(at 194.31 119.38 0)
@@ -7213,6 +7223,16 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "SCL" bidirectional
+			(at 280.67 21.59 0)
+			(uuid "24a6013a-831e-4223-8871-fb3c9e48e6b0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
