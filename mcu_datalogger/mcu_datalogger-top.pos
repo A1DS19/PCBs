@@ -1,0 +1,31 @@
+### Footprint positions - created on 2025-12-03T00:04:14-0600 ###
+### Printed by KiCad version 9.0.6-9.0.6~ubuntu24.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                               PosX       PosY       Rot  Side
+BT1       Battery              PinHeader_1x02_P2.54mm_Vertical   103.5050   -46.9900   90.0000  top
+C1        22pF                 C_0805_2012Metric                  80.3250   -64.1350    0.0000  top
+C2        22pF                 C_0805_2012Metric                  76.5150   -64.1350    0.0000  top
+C3        0.1uF                C_0805_2012Metric                  97.1550   -57.1500    0.0000  top
+C4        0.1uF                C_0805_2012Metric                  95.8850   -66.6750    0.0000  top
+C5        100nF                C_0805_2012Metric                 104.1400   -55.2450    0.0000  top
+D1        LED                  LED_0805_2012Metric               103.8375   -64.1350    0.0000  top
+D2        LED                  LED_0805_2012Metric               103.8375   -52.0700    0.0000  top
+J1        Conn_01x04_Pin       PinHeader_1x04_P2.54mm_Vertical    65.4050   -56.5150    0.0000  top
+J2        Conn_01x04_Pin       PinHeader_1x04_P2.54mm_Vertical    71.7550   -73.0250   90.0000  top
+J3        Conn_01x09           PinHeader_1x09_P2.54mm_Vertical    86.3600   -73.0250   90.0000  top
+J4        Conn_02x03_Odd_Even  PinHeader_2x03_P2.54mm_Vertical   109.8550   -56.5150    0.0000  top
+R1        330                  R_0805_2012Metric                  98.7825   -46.3550    0.0000  top
+R2        330                  R_0805_2012Metric                 104.1400   -59.0550    0.0000  top
+R3        10K                  R_0805_2012Metric                  97.1550   -62.2300    0.0000  top
+R4        4.7K                 R_0805_2012Metric                  97.5125   -52.0700    0.0000  top
+R5        4.7K                 R_0805_2012Metric                  70.2075   -60.9600    0.0000  top
+R6        R10K                 R_0805_2012Metric                  85.4475   -66.6750    0.0000  top
+R7        10K                  R_0805_2012Metric                  90.8050   -66.6750    0.0000  top
+U1        24LC1025             SOIC-8_5.3x5.3mm_P1.27mm           88.9000   -48.2600    0.0000  top
+U2        24LC1025             SOIC-8_5.3x5.3mm_P1.27mm           77.4700   -48.2600    0.0000  top
+U3        DS1337S_             SOIC127P600X175-8N                 78.8050   -57.1500    0.0000  top
+U4        ATMEGA328P-AU        QFP80P900X900X120-32N              88.9000   -58.4200    0.0000  top
+Y1        16MHz                Crystal_SMD_5032-2Pin_5.0x3.2mm    71.1200   -66.0400    0.0000  top
+Y2        32.768_KHz           Crystal_SMD_5032-2Pin_5.0x3.2mm    69.8500   -55.2450   90.0000  top
+## End
