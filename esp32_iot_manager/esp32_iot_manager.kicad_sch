@@ -871,16 +871,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "onsemi"
+			(property "Description" "800-mA 15-V linear voltage regulator 4-SOT-223"
 				(at 0 0 0)
 				(effects
 					(font
@@ -890,7 +881,7 @@
 					(hide yes)
 				)
 			)
-			(property "DESCRIPTION" "800-mA 15-V linear voltage regulator 4-SOT-223"
+			(property "MF" "onsemi"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4823,6 +4814,16 @@
 		)
 		(uuid "1fda4e95-fd65-4eca-970b-90d820849190")
 	)
+	(label "USB_DN"
+		(at 161.29 109.22 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "448041b5-6880-4c3d-81ed-0fbd4d90f77d")
+	)
 	(label "VBAT"
 		(at 180.34 72.39 180)
 		(effects
@@ -4872,6 +4873,16 @@
 			(justify left bottom)
 		)
 		(uuid "6250d2ed-3953-4237-a399-27d8245696ef")
+	)
+	(label "USB_DP"
+		(at 161.29 111.76 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6b2cbca4-ec22-46bc-b5d0-7b9ab4c08eeb")
 	)
 	(label "CHARGED"
 		(at 242.57 63.5 0)
@@ -4962,6 +4973,16 @@
 			(justify right bottom)
 		)
 		(uuid "d71eff19-b840-4a50-8ffc-db5e4fd2fef9")
+	)
+	(label "VBUS"
+		(at 161.29 114.3 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e02485c0-5ee8-44c9-9c91-5b3ef297bb80")
 	)
 	(label "USB_DP"
 		(at 74.93 54.61 0)
@@ -9122,6 +9143,36 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "USB_DN" input
+			(at 161.29 109.22 180)
+			(uuid "3a07ba60-e290-4487-ac02-83d81517e3fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DP" input
+			(at 161.29 111.76 180)
+			(uuid "b9f98e95-86b0-488a-8a86-7f62114f4965")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "V_BUS" input
+			(at 161.29 114.3 180)
+			(uuid "de9e5bd6-18cf-4f9b-a2ee-3e104047481e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
