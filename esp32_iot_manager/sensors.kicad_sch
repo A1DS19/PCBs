@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "fb91e967-ae33-44e5-aa05-3a96b61bdbc6")
+	(paper "A4")
+	(title_block
+		(date "2025-12-22")
+		(rev "v1")
+		(company "JPIndustries")
+		(comment 1 "Author: Jose Padilla")
+	)
+	(lib_symbols)
+)
