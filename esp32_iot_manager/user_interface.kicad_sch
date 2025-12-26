@@ -2729,7 +2729,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 31.75 57.15 0)
 			(effects
 				(font
@@ -3010,7 +3010,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USLPT2819DT2TR:SW_USLPT2819DT2TR"
+		(property "Footprint" "esp32_manager_project:SW_USLPT2819DT2TR"
 			(at 71.12 102.87 0)
 			(effects
 				(font
@@ -3877,7 +3877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USLPT2819DT2TR:SW_USLPT2819DT2TR"
+		(property "Footprint" "esp32_manager_project:SW_USLPT2819DT2TR"
 			(at 30.48 102.87 0)
 			(effects
 				(font

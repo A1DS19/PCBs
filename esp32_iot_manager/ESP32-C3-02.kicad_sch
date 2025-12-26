@@ -7715,7 +7715,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm"
+		(property "Footprint" "PCM_Package_DFN_QFN_AKL:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm"
 			(at 101.6 172.72 0)
 			(effects
 				(font
@@ -7907,7 +7907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESP32-C3-WROOM-02-H4:MODULE_ESP32-C3-WROOM-02-H4"
+		(property "Footprint" "esp32_manager_project:MODULE_ESP32-C3-WROOM-02-H4"
 			(at 226.06 48.26 0)
 			(effects
 				(font
@@ -8315,7 +8315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GSD090012SEU:AMPHENOL_GSD090012SEU"
+		(property "Footprint" "esp32_manager_project:AMPHENOL_GSD090012SEU"
 			(at 219.71 97.79 0)
 			(effects
 				(font
@@ -9034,7 +9034,7 @@
 				)
 			)
 		)
-		(property "Footprint" "W25Q32JVSSIQ:SOIC127P790X216-8N"
+		(property "Footprint" "esp32_manager_project:SOIC127P790X216-8N"
 			(at 63.5 36.83 0)
 			(effects
 				(font
