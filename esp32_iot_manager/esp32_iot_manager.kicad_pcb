@@ -9160,7 +9160,7 @@
 				)
 			)
 		)
-		(property "Value" "MISO"
+		(property "Value" " MISO"
 			(at 0.03 -1.4 180)
 			(layer "F.SilkS")
 			(uuid "5f24f4fa-280e-42bc-9223-7ab6c7c0690f")
@@ -19407,6 +19407,110 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
+		(layer "F.Cu")
+		(uuid "d04a497f-7e1a-4394-8049-b56a9a2aa3fa")
+		(at 157.47 106.63)
+		(descr "SMD pad as test Point, diameter 1.0mm")
+		(tags "test point SMD pad")
+		(property "Reference" "TP7"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "c0d3e2f7-8134-4550-90a3-35c0a8678dd0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "5V"
+			(at 0 -1.35 0)
+			(layer "F.SilkS")
+			(uuid "79cdc098-2e8a-4c60-ac84-8f5d0a55824b")
+			(effects
+				(font
+					(size 0.5 0.5)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1d945e7-a650-4b97-a82a-ad5a5581707b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01e83e25-130d-4cec-aac8-1632bb383185")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Pin* Test*")
+		(path "/1ee81c10-782d-4aea-8ae0-4dace1450d31/6673340d-b4de-4847-9045-b89795f01d82")
+		(sheetname "/ESP32-C3-02/")
+		(sheetfile "ESP32-C3-02.kicad_sch")
+		(attr exclude_from_pos_files)
+		(fp_circle
+			(center 0 0)
+			(end 0 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "f75934e5-9726-4207-b286-efd27b66bff1")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 1 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "9708ecf9-c8fb-46b1-9bc4-3ad3a58febaf")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "5573f1cd-b839-4c86-8401-27844db97269")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" smd circle
+			(at 0 0)
+			(size 1 1)
+			(layers "F.Cu" "F.Mask")
+			(net 3 "+5V")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "1cb04d4a-da87-4d0c-86a6-c5bdc4051d3e")
+		)
+		(embedded_fonts no)
 	)
 	(footprint "esp32_manager_project:MODULE_ESP32-C3-WROOM-02-H4"
 		(locked yes)
