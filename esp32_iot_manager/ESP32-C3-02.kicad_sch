@@ -4178,7 +4178,7 @@
 	)
 	(rectangle
 		(start 194.31 129.54)
-		(end 237.49 161.29)
+		(end 237.49 162.56)
 		(stroke
 			(width 0)
 			(type default)
@@ -5583,7 +5583,7 @@
 		(uuid "0742bc51-28ba-414e-afdb-3a102adbd3a9")
 	)
 	(label "CS_SD"
-		(at 218.44 158.75 0)
+		(at 208.28 158.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7073,6 +7073,73 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_SparkFun-PowerSymbol:3.3V")
+		(at 224.79 157.48 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "627ab170-bc2a-4589-af02-61394df3a1fa")
+		(property "Reference" "#PWR09"
+			(at 224.79 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3.3V"
+			(at 224.79 161.29 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 224.79 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"3.3V\""
+			(at 224.79 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f808c049-9c9c-4649-b044-0b57730c64da")
+		)
+		(instances
+			(project "esp32_iot_manager"
+				(path "/6166e74a-1734-44f8-8d71-dfcab5cab94e/1ee81c10-782d-4aea-8ae0-4dace1450d31"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LTST-C170KRKT:LTST-C170KRKT")
 		(at 119.38 161.29 0)
 		(unit 1)
@@ -8223,6 +8290,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 224.79 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b187092e-e484-4ece-965e-f07741ae5d6a")
+		(property "Reference" "TP6"
+			(at 221.488 152.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Test 3.3V"
+			(at 221.488 154.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 224.79 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 224.79 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 224.79 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "08e7fcec-4c8f-4a56-a47e-f9cb1a49202d")
+		)
+		(instances
+			(project ""
+				(path "/6166e74a-1734-44f8-8d71-dfcab5cab94e/1ee81c10-782d-4aea-8ae0-4dace1450d31"
+					(reference "TP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:3.3V")
 		(at 248.92 101.6 270)
 		(unit 1)
@@ -8655,7 +8787,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 218.44 158.75 90)
+		(at 208.28 158.75 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8664,7 +8796,7 @@
 		(fields_autoplaced yes)
 		(uuid "c383c284-0cf2-4c73-a918-ef38d0cb630a")
 		(property "Reference" "TP5"
-			(at 215.138 153.67 90)
+			(at 204.978 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8672,7 +8804,7 @@
 			)
 		)
 		(property "Value" "Test CS_SD"
-			(at 215.138 156.21 90)
+			(at 204.978 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8680,7 +8812,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 218.44 153.67 0)
+			(at 208.28 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8689,7 +8821,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 218.44 153.67 0)
+			(at 208.28 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8698,7 +8830,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 218.44 158.75 0)
+			(at 208.28 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
