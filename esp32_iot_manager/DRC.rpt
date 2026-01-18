@@ -1,0 +1,756 @@
+** Drc report for esp32_iot_manager.kicad_pcb **
+** Created on 2026-01-18T04:11:04-0600 **
+
+** Found 217 DRC violations **
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(174,1424 mm, 62,1325 mm): Track [3.3V] on F.Cu, length 0,9192 mm
+    @(174,1424 mm, 62,9968 mm): Pad 7 [GND] of U2 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(173,4924 mm, 61,0568 mm): Pad 1 [GND] of U2 on F.Cu
+    @(174,1424 mm, 61,0568 mm): Pad 2 [3.3V] of U2 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(174,1424 mm, 61,0568 mm): Pad 2 [3.3V] of U2 on F.Cu
+    @(174,7924 mm, 61,0568 mm): Pad 3 [/ESP32-C3-02/SDA] of U2 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(174,7924 mm, 61,0568 mm): Pad 3 [/ESP32-C3-02/SDA] of U2 on F.Cu
+    @(175,4424 mm, 61,0568 mm): Pad 4 [/ESP32-C3-02/SCL] of U2 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(175,4424 mm, 62,9968 mm): Pad 5 [GND] of U2 on F.Cu
+    @(174,7924 mm, 62,9968 mm): Pad 6 [3.3V] of U2 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(174,7924 mm, 62,9968 mm): Pad 6 [3.3V] of U2 on F.Cu
+    @(174,1424 mm, 62,9968 mm): Pad 7 [GND] of U2 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(174,1424 mm, 62,9968 mm): Pad 7 [GND] of U2 on F.Cu
+    @(173,4924 mm, 62,9968 mm): Pad 8 [3.3V] of U2 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(164,0800 mm, 103,8700 mm): Pad A1 [GND] of J1 on F.Cu
+    @(164,5800 mm, 103,8700 mm): Pad A2 [unconnected-(J1-SSTXP1-PadA2)] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(164,5800 mm, 103,8700 mm): Pad A2 [unconnected-(J1-SSTXP1-PadA2)] of J1 on F.Cu
+    @(165,0800 mm, 103,8700 mm): Pad A3 [unconnected-(J1-SSTXN1-PadA3)] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(165,0800 mm, 103,8700 mm): Pad A3 [unconnected-(J1-SSTXN1-PadA3)] of J1 on F.Cu
+    @(165,5800 mm, 103,8700 mm): Pad A4 [/VBUS] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(165,5800 mm, 103,8700 mm): Pad A4 [/VBUS] of J1 on F.Cu
+    @(166,0800 mm, 103,8700 mm): Pad A5 [Net-(J1-CC1)] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(166,0800 mm, 103,8700 mm): Pad A5 [Net-(J1-CC1)] of J1 on F.Cu
+    @(166,5800 mm, 103,8700 mm): Pad A6 [/USB_DP] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(166,5800 mm, 103,8700 mm): Pad A6 [/USB_DP] of J1 on F.Cu
+    @(167,0800 mm, 103,8700 mm): Pad A7 [/USB_DN] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(167,0800 mm, 103,8700 mm): Pad A7 [/USB_DN] of J1 on F.Cu
+    @(167,5800 mm, 103,8700 mm): Pad A8 [unconnected-(J1-SBU1-PadA8)] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(167,5800 mm, 103,8700 mm): Pad A8 [unconnected-(J1-SBU1-PadA8)] of J1 on F.Cu
+    @(168,0800 mm, 103,8700 mm): Pad A9 [/VBUS] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(168,0800 mm, 103,8700 mm): Pad A9 [/VBUS] of J1 on F.Cu
+    @(168,5800 mm, 103,8700 mm): Pad A10 [unconnected-(J1-SSRXN2-PadA10)] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(168,5800 mm, 103,8700 mm): Pad A10 [unconnected-(J1-SSRXN2-PadA10)] of J1 on F.Cu
+    @(169,0800 mm, 103,8700 mm): Pad A11 [unconnected-(J1-SSRXP2-PadA11)] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(169,0800 mm, 103,8700 mm): Pad A11 [unconnected-(J1-SSRXP2-PadA11)] of J1 on F.Cu
+    @(169,5800 mm, 103,8700 mm): Pad A12 [GND] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(169,6300 mm, 105,1200 mm): PTH pad B1 [GND] of J1
+    @(169,2300 mm, 105,8300 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(169,6300 mm, 105,1200 mm): PTH pad B1 [GND] of J1
+    @(169,2300 mm, 105,8300 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(169,2300 mm, 105,8300 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+    @(168,4300 mm, 105,8300 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(169,2300 mm, 105,8300 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+    @(168,8300 mm, 105,1200 mm): PTH pad G1 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(169,2300 mm, 105,8300 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+    @(168,8300 mm, 105,1200 mm): PTH pad G1 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(169,2300 mm, 105,8300 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+    @(168,4300 mm, 105,8300 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(168,4300 mm, 105,8300 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(168,0300 mm, 105,1200 mm): PTH pad B4 [/VBUS] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(168,4300 mm, 105,8300 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(167,6300 mm, 105,8300 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(168,4300 mm, 105,8300 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(168,8300 mm, 105,1200 mm): PTH pad G1 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(168,4300 mm, 105,8300 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(168,8300 mm, 105,1200 mm): PTH pad G1 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(168,4300 mm, 105,8300 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(168,0300 mm, 105,1200 mm): PTH pad B4 [/VBUS] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(168,4300 mm, 105,8300 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(167,6300 mm, 105,8300 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(168,0300 mm, 105,1200 mm): PTH pad B4 [/VBUS] of J1
+    @(167,6300 mm, 105,8300 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(168,0300 mm, 105,1200 mm): PTH pad B4 [/VBUS] of J1
+    @(167,2300 mm, 105,1200 mm): PTH pad B6 [/USB_DP] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(168,0300 mm, 105,1200 mm): PTH pad B4 [/VBUS] of J1
+    @(168,8300 mm, 105,1200 mm): PTH pad G1 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(168,0300 mm, 105,1200 mm): PTH pad B4 [/VBUS] of J1
+    @(168,8300 mm, 105,1200 mm): PTH pad G1 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(168,0300 mm, 105,1200 mm): PTH pad B4 [/VBUS] of J1
+    @(167,2300 mm, 105,1200 mm): PTH pad B6 [/USB_DP] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(168,0300 mm, 105,1200 mm): PTH pad B4 [/VBUS] of J1
+    @(167,6300 mm, 105,8300 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(167,6300 mm, 105,8300 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+    @(167,2300 mm, 105,1200 mm): PTH pad B6 [/USB_DP] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(167,6300 mm, 105,8300 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+    @(167,2300 mm, 105,1200 mm): PTH pad B6 [/USB_DP] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(167,2300 mm, 105,1200 mm): PTH pad B6 [/USB_DP] of J1
+    @(166,4300 mm, 105,1200 mm): PTH pad B7 [/USB_DN] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(167,2300 mm, 105,1200 mm): PTH pad B6 [/USB_DP] of J1
+    @(166,4300 mm, 105,1200 mm): PTH pad B7 [/USB_DN] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(166,4300 mm, 105,1200 mm): PTH pad B7 [/USB_DN] of J1
+    @(166,0300 mm, 105,8300 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(166,4300 mm, 105,1200 mm): PTH pad B7 [/USB_DN] of J1
+    @(165,6300 mm, 105,1200 mm): PTH pad B9 [/VBUS] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(166,4300 mm, 105,1200 mm): PTH pad B7 [/USB_DN] of J1
+    @(166,0300 mm, 105,8300 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(166,4300 mm, 105,1200 mm): PTH pad B7 [/USB_DN] of J1
+    @(165,6300 mm, 105,1200 mm): PTH pad B9 [/VBUS] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(166,0300 mm, 105,8300 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+    @(165,6300 mm, 105,1200 mm): PTH pad B9 [/VBUS] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(166,0300 mm, 105,8300 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+    @(165,2300 mm, 105,8300 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(166,0300 mm, 105,8300 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+    @(165,2300 mm, 105,8300 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(166,0300 mm, 105,8300 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+    @(165,6300 mm, 105,1200 mm): PTH pad B9 [/VBUS] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(165,6300 mm, 105,1200 mm): PTH pad B9 [/VBUS] of J1
+    @(165,2300 mm, 105,8300 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(165,6300 mm, 105,1200 mm): PTH pad B9 [/VBUS] of J1
+    @(164,8300 mm, 105,1200 mm): PTH pad G2 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(165,6300 mm, 105,1200 mm): PTH pad B9 [/VBUS] of J1
+    @(165,2300 mm, 105,8300 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(165,6300 mm, 105,1200 mm): PTH pad B9 [/VBUS] of J1
+    @(164,8300 mm, 105,1200 mm): PTH pad G2 [GND] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(165,2300 mm, 105,8300 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+    @(164,4300 mm, 105,8300 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(165,2300 mm, 105,8300 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+    @(164,8300 mm, 105,1200 mm): PTH pad G2 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(165,2300 mm, 105,8300 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+    @(164,4300 mm, 105,8300 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(165,2300 mm, 105,8300 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+    @(164,8300 mm, 105,1200 mm): PTH pad G2 [GND] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(164,4300 mm, 105,8300 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+    @(164,0300 mm, 105,1200 mm): PTH pad B12 [GND] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(164,4300 mm, 105,8300 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+    @(164,8300 mm, 105,1200 mm): PTH pad G2 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(164,4300 mm, 105,8300 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+    @(164,8300 mm, 105,1200 mm): PTH pad G2 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(164,4300 mm, 105,8300 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+    @(164,0300 mm, 105,1200 mm): PTH pad B12 [GND] of J1
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(181,6200 mm, 109,2000 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(173,7000 mm, 89,8100 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(160,4800 mm, 82,4200 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(177,2000 mm, 79,4100 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(192,0100 mm, 81,6000 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(148,7700 mm, 100,8380 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(168,4600 mm, 107,9200 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(167,6100 mm, 93,5300 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(183,0600 mm, 109,2000 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(153,0100 mm, 100,8361 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(181,7300 mm, 111,2900 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(159,2400 mm, 71,3000 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(214,8900 mm, 84,3100 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(187,8400 mm, 109,5600 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(153,8300 mm, 69,8700 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(168,2800 mm, 72,1900 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(151,2500 mm, 77,7400 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(178,9900 mm, 95,2700 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(205,2300 mm, 83,0600 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(163,3200 mm, 102,6500 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(200,1400 mm, 78,2600 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(155,1200 mm, 111,3800 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(171,7400 mm, 99,0400 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(190,5900 mm, 70,8400 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(149,8500 mm, 67,6900 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(170,1200 mm, 89,6600 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(167,1042 mm, 100,1284 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(215,1100 mm, 113,7000 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(176,2400 mm, 66,6100 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(182,5700 mm, 111,3300 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(173,4424 mm, 62,1401 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(210,5200 mm, 74,2400 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(154,5400 mm, 64,4500 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(156,5600 mm, 63,8200 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(187,7900 mm, 86,5100 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(150,9100 mm, 100,8361 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(170,5100 mm, 103,5300 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(157,5000 mm, 76,6700 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(177,7400 mm, 91,7300 mm): Via [GND] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(164,5500 mm, 102,5400 mm): Via [/VBUS] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(169,5300 mm, 102,1400 mm): Via [/VBUS] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(166,0806 mm, 100,4429 mm): Via [/VBUS] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(140,6700 mm, 63,7700 mm): Via [3.3V] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(159,2400 mm, 66,8800 mm): Via [3.3V] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(143,9400 mm, 97,0788 mm): Via [/+5V_USB] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(152,5900 mm, 109,9400 mm): Via [/+5V_USB] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(141,1700 mm, 97,1296 mm): Via [/+5V_USB] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(149,0700 mm, 112,9300 mm): Via [/+5V_USB] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(156,8500 mm, 100,4000 mm): Via [/+5V_USB] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(155,7700 mm, 107,8500 mm): Via [/+5V_USB] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(156,8500 mm, 101,4300 mm): Via [/+5V_USB] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(156,8900 mm, 99,4600 mm): Via [/+5V_USB] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(155,5473 mm, 106,1972 mm): Via [/+5V_USB] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(156,8400 mm, 102,3700 mm): Via [/+5V_USB] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(151,5858 mm, 109,9600 mm): Via [/+5V_USB] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(152,0900 mm, 109,9500 mm): Via [/+5V_USB] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(171,9200 mm, 96,0400 mm): Via [Net-(U4-VBUS)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(171,4100 mm, 93,8000 mm): Via [Net-(U4-VBUS)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'CONTROL'; error
+    @(180,8800 mm, 90,1100 mm): Via [/ESP32-C3-02/EN] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'CONTROL'; error
+    @(179,8700 mm, 100,9100 mm): Via [/ESP32-C3-02/EN] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(176,9450 mm, 75,0950 mm): Via [Net-(U6-VCC)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(186,2300 mm, 74,7500 mm): Via [Net-(U6-VCC)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(162,8900 mm, 72,6400 mm): Via [Net-(C17-Pad1)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(163,6000 mm, 70,8800 mm): Via [Net-(C17-Pad1)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(151,0400 mm, 74,8500 mm): Via [/ESP32-C3-02/MIC_OUT] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(197,2300 mm, 71,6800 mm): Via [/ESP32-C3-02/MIC_OUT] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'CONTROL'; error
+    @(180,3900 mm, 80,9600 mm): Via [/ESP32-C3-02/BOOT] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'CONTROL'; error
+    @(200,0300 mm, 76,5100 mm): Via [/ESP32-C3-02/BOOT] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(179,3100 mm, 67,7500 mm): Via [/ESP32-C3-02/GPI019] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(214,0510 mm, 72,7200 mm): Via [/ESP32-C3-02/GPI019] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(213,6700 mm, 73,6400 mm): Via [/ESP32-C3-02/GPIO18] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(173,9300 mm, 68,2500 mm): Via [/ESP32-C3-02/GPIO18] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(147,8600 mm, 64,3900 mm): Via [/ESP32-C3-02/GPIO8] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(199,8534 mm, 77,6214 mm): Via [/ESP32-C3-02/GPIO8] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(167,3000 mm, 76,0800 mm): Via [/ESP32-C3-02/GPIO8] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(148,5100 mm, 68,2200 mm): Via [/ESP32-C3-02/GPIO8] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(185,7600 mm, 105,3000 mm): Via [Net-(Q2-B)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(177,1000 mm, 104,0100 mm): Via [Net-(Q2-B)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'CONTROL'; error
+    @(164,3800 mm, 93,5400 mm): Via [/ESP32-C3-02/RTS] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'CONTROL'; error
+    @(173,1000 mm, 109,3400 mm): Via [/ESP32-C3-02/RTS] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(165,3600 mm, 92,6600 mm): Via [/ESP32-C3-02/DTR] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(182,0700 mm, 108,5600 mm): Via [/ESP32-C3-02/DTR] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(163,5600 mm, 101,6200 mm): Via [Net-(J1-CC1)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(161,1600 mm, 105,5500 mm): Via [Net-(J1-CC1)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(146,6700 mm, 99,8100 mm): Via [Net-(U1-STAT2)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(152,6405 mm, 104,3620 mm): Via [Net-(U1-STAT2)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(141,3000 mm, 99,2000 mm): Via [Net-(U1-~{PG})] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(153,8100 mm, 105,1000 mm): Via [Net-(U1-~{PG})] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(169,0239 mm, 94,5890 mm): Via [Net-(U4-~{RST})] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(168,2600 mm, 92,4400 mm): Via [Net-(U4-~{RST})] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(155,8864 mm, 70,4900 mm): Via [Net-(U7-IN+)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(153,7700 mm, 71,4800 mm): Via [Net-(U7-IN+)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(158,0900 mm, 70,8400 mm): Via [Net-(U7-IN+)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(161,3900 mm, 74,2400 mm): Via [Net-(U7-IN+)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(214,4700 mm, 69,9100 mm): Via [/ESP32-C3-02/PHOTO_C] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(167,9300 mm, 83,2300 mm): Via [/ESP32-C3-02/PHOTO_C] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(155,4265 mm, 105,1635 mm): Via [Net-(U1-THERM)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(150,2000 mm, 102,8900 mm): Via [Net-(U1-THERM)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(152,5200 mm, 102,8600 mm): Via [Net-(U1-PROG3)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(147,9060 mm, 106,4419 mm): Via [Net-(U1-PROG3)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(147,6500 mm, 107,1600 mm): Via [Net-(U1-PROG1)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(154,5500 mm, 102,7300 mm): Via [Net-(U1-PROG1)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(164,9400 mm, 101,2400 mm): Via [/USB_DP] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(168,6000 mm, 101,2500 mm): Via [/USB_DN] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'USB_DATA'; error
+    @(217,4000 mm, 75,1500 mm): Via [/ESP32-C3-02/TX_RX] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'USB_DATA'; error
+    @(163,5200 mm, 94,7200 mm): Via [/ESP32-C3-02/TX_RX] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'USB_DATA'; error
+    @(163,6300 mm, 93,8200 mm): Via [/ESP32-C3-02/RX_TX] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'USB_DATA'; error
+    @(217,4000 mm, 80,2000 mm): Via [/ESP32-C3-02/RX_TX] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(156,0400 mm, 72,1400 mm): Via [Net-(U7-IN-)] on F.Cu - B.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0,3000 mm; actual 0,2000 mm)
+    Rule: netclass 'Default'; error
+    @(153,2593 mm, 72,5749 mm): Via [Net-(U7-IN-)] on F.Cu - B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0,2000 mm; actual 0,0948 mm)
+    Rule: board setup constraints edge; error
+    @(216,3638 mm, 65,7506 mm): Segment on Edge.Cuts
+    @(216,1534 mm, 66,8740 mm): Pad 18 [/ESP32-C3-02/CS_SD] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1500 mm)
+    Rule: netclass 'Default'; error
+    @(174,1424 mm, 61,9900 mm): Via [3.3V] on F.Cu - B.Cu
+    @(173,4924 mm, 61,0568 mm): Track [GND] on F.Cu, length 1,0757 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1239 mm)
+    Rule: netclass 'Default'; error
+    @(172,9570 mm, 94,5860 mm): Track [3.3V] on F.Cu, length 2,3730 mm
+    @(169,8836 mm, 93,7542 mm): Pad 2 [Net-(U4-VBUS)] of C11 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,0659 mm)
+    Rule: netclass 'Default'; error
+    @(174,1424 mm, 61,9900 mm): Via [3.3V] on F.Cu - B.Cu
+    @(173,4424 mm, 62,1401 mm): Via [GND] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1624 mm)
+    Rule: netclass 'Default'; error
+    @(174,1424 mm, 61,9900 mm): Via [3.3V] on F.Cu - B.Cu
+    @(174,7924 mm, 61,0568 mm): Track [/ESP32-C3-02/SDA] on F.Cu, length 0,8056 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1000 mm)
+    Rule: netclass 'Default'; error
+    @(167,8200 mm, 95,6500 mm): Pad 8 [Net-(U4-VBUS)] of U4 on F.Cu
+    @(169,0200 mm, 96,1500 mm): Track [3.3V] on F.Cu, length 1,2000 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1096 mm)
+    Rule: netclass 'Default'; error
+    @(174,1424 mm, 62,1325 mm): Track [3.3V] on F.Cu, length 0,9192 mm
+    @(174,1424 mm, 62,7825 mm): Track [GND] on F.Cu, length 0,2143 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1096 mm)
+    Rule: netclass 'Default'; error
+    @(173,4924 mm, 62,1325 mm): Track [GND] on F.Cu, length 0,9192 mm
+    @(174,1424 mm, 62,1325 mm): Track [3.3V] on F.Cu, length 0,9192 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1506 mm)
+    Rule: netclass 'Default'; error
+    @(174,1424 mm, 62,1325 mm): Track [3.3V] on F.Cu, length 0,9192 mm
+    @(175,1900 mm, 62,2600 mm): Via [/ESP32-C3-02/SDA] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1180 mm)
+    Rule: netclass 'Default'; error
+    @(167,0200 mm, 96,9500 mm): Pad 5 [/ESP32-C3-02/USB_DATA-] of U4 on F.Cu
+    @(167,5200 mm, 96,4500 mm): Track [3.3V] on F.Cu, length 0,4243 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1239 mm)
+    Rule: netclass 'Default'; error
+    @(169,8836 mm, 93,7542 mm): Pad 2 [Net-(U4-VBUS)] of C11 on F.Cu
+    @(170,5840 mm, 94,5860 mm): Track [3.3V] on F.Cu, length 2,2118 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1500 mm)
+    Rule: netclass 'Default'; error
+    @(174,1424 mm, 62,9968 mm): Pad 7 [GND] of U2 on F.Cu
+    @(173,5174 mm, 64,8268 mm): Track [3.3V] on F.Cu, length 1,8050 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1750 mm)
+    Rule: netclass 'Default'; error
+    @(174,7924 mm, 61,0568 mm): Pad 3 [/ESP32-C3-02/SDA] of U2 on F.Cu
+    @(174,1424 mm, 61,0568 mm): Track [3.3V] on F.Cu, length 0,9332 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1624 mm)
+    Rule: netclass 'Default'; error
+    @(174,7924 mm, 61,8624 mm): Track [/ESP32-C3-02/SDA] on F.Cu, length 0,5623 mm
+    @(174,1424 mm, 61,9900 mm): Via [3.3V] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1000 mm)
+    Rule: netclass 'Default'; error
+    @(167,5200 mm, 96,6500 mm): Track [3.3V] on F.Cu, length 0,2000 mm
+    @(167,0200 mm, 96,9500 mm): Pad 5 [/ESP32-C3-02/USB_DATA-] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1649 mm)
+    Rule: netclass 'Default'; error
+    @(169,6300 mm, 105,1200 mm): PTH pad B1 [GND] of J1
+    @(169,2300 mm, 105,8300 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1500 mm)
+    Rule: netclass 'Default'; error
+    @(169,2300 mm, 105,8300 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+    @(168,4300 mm, 105,8300 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1649 mm)
+    Rule: netclass 'Default'; error
+    @(169,2300 mm, 105,8300 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+    @(168,8300 mm, 105,1200 mm): PTH pad G1 [GND] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1649 mm)
+    Rule: netclass 'Default'; error
+    @(168,4300 mm, 105,8300 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(168,0300 mm, 105,1200 mm): PTH pad B4 [/VBUS] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1500 mm)
+    Rule: netclass 'Default'; error
+    @(168,4300 mm, 105,8300 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(167,6300 mm, 105,8300 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1649 mm)
+    Rule: netclass 'Default'; error
+    @(168,4300 mm, 105,8300 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(168,8300 mm, 105,1200 mm): PTH pad G1 [GND] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1649 mm)
+    Rule: netclass 'Default'; error
+    @(168,0300 mm, 105,1200 mm): PTH pad B4 [/VBUS] of J1
+    @(167,6300 mm, 105,8300 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1500 mm)
+    Rule: netclass 'Default'; error
+    @(168,0300 mm, 105,1200 mm): PTH pad B4 [/VBUS] of J1
+    @(167,2300 mm, 105,1200 mm): PTH pad B6 [/USB_DP] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1500 mm)
+    Rule: netclass 'Default'; error
+    @(168,0300 mm, 105,1200 mm): PTH pad B4 [/VBUS] of J1
+    @(168,8300 mm, 105,1200 mm): PTH pad G1 [GND] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1649 mm)
+    Rule: netclass 'Default'; error
+    @(167,6300 mm, 105,8300 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+    @(167,2300 mm, 105,1200 mm): PTH pad B6 [/USB_DP] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1500 mm)
+    Rule: netclass 'Default'; error
+    @(167,2300 mm, 105,1200 mm): PTH pad B6 [/USB_DP] of J1
+    @(166,4300 mm, 105,1200 mm): PTH pad B7 [/USB_DN] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1500 mm)
+    Rule: netclass 'Default'; error
+    @(166,4300 mm, 105,1200 mm): PTH pad B7 [/USB_DN] of J1
+    @(165,6300 mm, 105,1200 mm): PTH pad B9 [/VBUS] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1649 mm)
+    Rule: netclass 'Default'; error
+    @(166,4300 mm, 105,1200 mm): PTH pad B7 [/USB_DN] of J1
+    @(166,0300 mm, 105,8300 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1649 mm)
+    Rule: netclass 'Default'; error
+    @(166,0300 mm, 105,8300 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+    @(165,6300 mm, 105,1200 mm): PTH pad B9 [/VBUS] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1500 mm)
+    Rule: netclass 'Default'; error
+    @(166,0300 mm, 105,8300 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+    @(165,2300 mm, 105,8300 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1500 mm)
+    Rule: netclass 'Default'; error
+    @(165,6300 mm, 105,1200 mm): PTH pad B9 [/VBUS] of J1
+    @(164,8300 mm, 105,1200 mm): PTH pad G2 [GND] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1649 mm)
+    Rule: netclass 'Default'; error
+    @(165,6300 mm, 105,1200 mm): PTH pad B9 [/VBUS] of J1
+    @(165,2300 mm, 105,8300 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1649 mm)
+    Rule: netclass 'Default'; error
+    @(165,2300 mm, 105,8300 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+    @(164,8300 mm, 105,1200 mm): PTH pad G2 [GND] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1649 mm)
+    Rule: netclass 'Default'; error
+    @(164,4300 mm, 105,8300 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+    @(164,0300 mm, 105,1200 mm): PTH pad B12 [GND] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0,2000 mm; actual 0,1649 mm)
+    Rule: netclass 'Default'; error
+    @(164,4300 mm, 105,8300 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+    @(164,8300 mm, 105,1200 mm): PTH pad G2 [GND] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0,1000 mm; actual 0,0500 mm)
+    Rule: board setup constraints; error
+    @(207,8134 mm, 71,9740 mm): PTH pad 28 [GND] of U3
+[annular_width]: Annular width (board setup constraints min annular width 0,1000 mm; actual 0,0500 mm)
+    Rule: board setup constraints; error
+    @(208,9134 mm, 71,9740 mm): PTH pad 29 [GND] of U3
+[annular_width]: Annular width (board setup constraints min annular width 0,1000 mm; actual 0,0500 mm)
+    Rule: board setup constraints; error
+    @(207,2634 mm, 72,5240 mm): PTH pad 30 [GND] of U3
+[annular_width]: Annular width (board setup constraints min annular width 0,1000 mm; actual 0,0500 mm)
+    Rule: board setup constraints; error
+    @(208,3634 mm, 72,5240 mm): PTH pad 31 [GND] of U3
+[annular_width]: Annular width (board setup constraints min annular width 0,1000 mm; actual 0,0500 mm)
+    Rule: board setup constraints; error
+    @(209,4634 mm, 72,5240 mm): PTH pad 32 [GND] of U3
+[annular_width]: Annular width (board setup constraints min annular width 0,1000 mm; actual 0,0500 mm)
+    Rule: board setup constraints; error
+    @(207,8134 mm, 73,0740 mm): PTH pad 33 [GND] of U3
+[annular_width]: Annular width (board setup constraints min annular width 0,1000 mm; actual 0,0500 mm)
+    Rule: board setup constraints; error
+    @(208,9134 mm, 73,0740 mm): PTH pad 34 [GND] of U3
+[annular_width]: Annular width (board setup constraints min annular width 0,1000 mm; actual 0,0500 mm)
+    Rule: board setup constraints; error
+    @(207,2634 mm, 73,6240 mm): PTH pad 35 [GND] of U3
+[annular_width]: Annular width (board setup constraints min annular width 0,1000 mm; actual 0,0500 mm)
+    Rule: board setup constraints; error
+    @(208,3634 mm, 73,6240 mm): PTH pad 36 [GND] of U3
+[annular_width]: Annular width (board setup constraints min annular width 0,1000 mm; actual 0,0500 mm)
+    Rule: board setup constraints; error
+    @(209,4634 mm, 73,6240 mm): PTH pad 37 [GND] of U3
+[annular_width]: Annular width (board setup constraints min annular width 0,1000 mm; actual 0,0500 mm)
+    Rule: board setup constraints; error
+    @(207,8134 mm, 74,1740 mm): PTH pad 38 [GND] of U3
+[annular_width]: Annular width (board setup constraints min annular width 0,1000 mm; actual 0,0500 mm)
+    Rule: board setup constraints; error
+    @(208,9134 mm, 74,1740 mm): PTH pad 39 [GND] of U3
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
