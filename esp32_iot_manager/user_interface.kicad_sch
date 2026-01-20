@@ -2485,15 +2485,15 @@
 	(symbol
 		(lib_id "Transistor_BJT:BC817")
 		(at 43.18 147.32 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0b68d7cc-0130-461e-9ff0-9f8c1b7f3853")
 		(property "Reference" "Q3"
-			(at 48.26 146.0499 0)
+			(at 48.26 148.5901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2502,7 +2502,7 @@
 			)
 		)
 		(property "Value" "BC817"
-			(at 48.26 148.5899 0)
+			(at 48.26 146.0501 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2511,7 +2511,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 48.26 149.225 0)
+			(at 48.26 145.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)

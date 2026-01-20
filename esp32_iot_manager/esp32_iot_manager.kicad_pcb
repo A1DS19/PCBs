@@ -1763,7 +1763,7 @@
 				)
 			)
 		)
-		(property "Value" "CS_SD"
+		(property "Value" "Test CS_SD"
 			(at 0.03 -1.48 0)
 			(layer "F.SilkS")
 			(uuid "66bc7e26-30d5-46a3-9cf8-fab9113101ad")
@@ -3662,7 +3662,7 @@
 			(size 1.475 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 11 "/ESP32-C3-02/BOOT")
+			(net 26 "/ESP32-C3-02/DTR")
 			(pinfunction "E")
 			(pintype "passive")
 			(uuid "c28e60d3-c49e-4148-b1f3-c46891c58601")
@@ -3672,7 +3672,7 @@
 			(size 1.475 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 26 "/ESP32-C3-02/DTR")
+			(net 11 "/ESP32-C3-02/BOOT")
 			(pinfunction "C")
 			(pintype "passive")
 			(uuid "cd43a6dd-0477-4770-b7ff-a98300435506")
@@ -8459,7 +8459,7 @@
 				)
 			)
 		)
-		(property "Value" "MOSI"
+		(property "Value" "Test MOSI"
 			(at -0.07 -1.44 0)
 			(layer "F.SilkS")
 			(uuid "24369f79-48b2-4068-9210-1aaa241ce54b")
@@ -9166,7 +9166,7 @@
 				)
 			)
 		)
-		(property "Value" " MISO"
+		(property "Value" "Test MISO"
 			(at 0.03 -1.4 180)
 			(layer "F.SilkS")
 			(uuid "5f24f4fa-280e-42bc-9223-7ab6c7c0690f")
@@ -13335,7 +13335,7 @@
 				)
 			)
 		)
-		(property "Value" "CS"
+		(property "Value" "Test CS"
 			(at -0.04 -1.4 0)
 			(layer "F.SilkS")
 			(uuid "eaf55372-9b10-48d7-9d57-41c773de2742")
@@ -17017,7 +17017,7 @@
 				)
 			)
 		)
-		(property "Value" "CLOCK"
+		(property "Value" "Test clock"
 			(at -0.1 -1.44 0)
 			(layer "F.SilkS")
 			(uuid "514785a3-d145-40fa-a349-f854b666febe")
@@ -19439,7 +19439,7 @@
 				)
 			)
 		)
-		(property "Value" "5V"
+		(property "Value" "Test 5V"
 			(at 0 -1.35 0)
 			(layer "F.SilkS")
 			(uuid "79cdc098-2e8a-4c60-ac84-8f5d0a55824b")
@@ -20852,7 +20852,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3V"
+		(property "Value" "Test 3.3V"
 			(at 0.06 -1.39 0)
 			(layer "F.SilkS")
 			(uuid "8eb30e0a-99b0-42f1-b21c-4619ce3a1ef7")
