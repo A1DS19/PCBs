@@ -1,0 +1,23 @@
+### Missing 3D models - created on 2026-01-19 21:51
+### Printed by checking_3D_models plugin
+Board file: /home/dev/projects/pcbs/esp32_iot_manager/esp32_iot_manager.kicad_pcb
+3D missing models written to:
+/home/dev/projects/pcbs/esp32_iot_manager/esp32_iot_manager_missing3Dmodels.txt
+-------
+('LED7', '/home/dev/projects/pcbs/esp32_iot_manager/3D models/LTST-C170KRKT.stp')
+('C9', '/home/dev/projects/pcbs/esp32_iot_manager/3D models/T491A106K010AT7280.stp')
+('LED8', '/home/dev/projects/pcbs/esp32_iot_manager/3D models/LTST-C170KRKT.stp')
+('LED9', '/home/dev/projects/pcbs/esp32_iot_manager/3D models/LTST-C170KRKT.stp')
+('C3', '/home/dev/projects/pcbs/esp32_iot_manager/3D models/T491A106K010AT7280.stp')
+('LED6', '/home/dev/projects/pcbs/esp32_iot_manager/3D models/LTST-C170KRKT.stp')
+('F1', '/home/dev/projects/pcbs/esp32_iot_manager/3D models/0ZCH0110AF2E.stp')
+('C5', '/home/dev/projects/pcbs/esp32_iot_manager/3D models/T491A106K010AT7280.stp')
+('LED4', '/home/dev/projects/pcbs/esp32_iot_manager/3D models/LTST-C170KRKT.stp')
+('U4', '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm.wrl')
+('C7', '/home/dev/projects/pcbs/esp32_iot_manager/3D models/T491A106K010AT7280.stp')
+('C13', '/home/dev/projects/pcbs/esp32_iot_manager/3D models/T491A106K010AT7280.stp')
+('U5', '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-666.wrl')
+('LED5', '/home/dev/projects/pcbs/esp32_iot_manager/3D models/LTST-C170KRKT.stp')
+-------
+NUM of 3D missing models:14
+checked extensions ['.stp', '.step', '.stpZ']
