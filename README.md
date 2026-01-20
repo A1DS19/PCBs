@@ -24,5 +24,3 @@ This repository contains PCB design files, schematics, and documentation for cus
 
 ### Manufacturing
 - [JLCPCB](https://jlcpcb.com/)
-
-- Vid: 3:36:29
