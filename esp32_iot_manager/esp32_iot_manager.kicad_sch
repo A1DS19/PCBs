@@ -4733,6 +4733,16 @@
 	)
 	(wire
 		(pts
+			(xy 236.22 95.25) (xy 236.22 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2bc4a90-cc4d-4c04-9fa9-7043aab14254")
+	)
+	(wire
+		(pts
 			(xy 200.66 77.47) (xy 198.12 77.47)
 		)
 		(stroke
@@ -5114,7 +5124,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 236.22 77.47 270)
+		(at 236.22 97.79 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5123,7 +5133,7 @@
 		(fields_autoplaced yes)
 		(uuid "06662192-1ac9-486f-8469-22e59ebf2257")
 		(property "Reference" "#PWR058"
-			(at 232.41 77.47 0)
+			(at 232.41 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5132,7 +5142,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 240.03 77.4699 90)
+			(at 240.03 97.7899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5141,7 +5151,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 77.47 0)
+			(at 236.22 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5150,7 +5160,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 77.47 0)
+			(at 236.22 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5159,7 +5169,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 236.22 77.47 0)
+			(at 236.22 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9163,6 +9173,148 @@
 			(project ""
 				(path "/6166e74a-1734-44f8-8d71-dfcab5cab94e"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0ZCH0110AF2E:0ZCH0110AF2E")
+		(at 236.22 77.47 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f99ada8b-51a0-45e1-822d-4d93e807e443")
+		(property "Reference" "F2"
+			(at 238.76 85.0899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0ZCH0110AF2E"
+			(at 238.76 87.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "FUSC3226X100N"
+			(at 140.03 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zch-series.pdf"
+			(at 40.03 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "1210 SMT PPTC | 1.10 Ih | 16V"
+			(at 236.22 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1"
+			(at -159.97 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Bel Circuit Protection"
+			(at -259.97 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0ZCH0110AF2E"
+			(at -359.97 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at -459.97 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at -559.97 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at -659.97 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at -759.97 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "73e7dd37-af96-4e37-8189-c7bfae463567")
+		)
+		(pin "1"
+			(uuid "6e0c4e0f-d4e3-4b5f-816c-0463ae5f27df")
+		)
+		(instances
+			(project ""
+				(path "/6166e74a-1734-44f8-8d71-dfcab5cab94e"
+					(reference "F2")
 					(unit 1)
 				)
 			)
